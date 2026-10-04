@@ -1,0 +1,19 @@
+{
+  "tool": "luapack",
+  "version": "1.1.0",
+  "lua": "5.1",
+  "mode": "xxtea",
+  "files": [
+    {
+      "name": "demo",
+      "source": "/var/deepbot/sessions/7532267160/ws/luapack/test/demo.lua",
+      "bytecode_size": 1045,
+      "container_size": 1232,
+      "cipher": "xxtea",
+      "lua": "5.1",
+      "enc": "demo.luac.enc",
+      "loader": "demo.loader.lua",
+      "sha256_16": "48afbc62c2f8cbc6"
+    }
+  ]
+}
